@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joana Bravo</h1>
 <h3 align="center">A passionate Web developer from Philippines</h3>
 
-- 💬 Ask me about **web development**
+- 👨‍💻 All of my projects are available at [https://joanabravo.vercel.app/](https://joanabravo.vercel.app/)
+
+- 💬 Ask me about **Web development**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/14McHNa8S-KevxE8WX1KZ5jRnUny5_ayT41XZXIMlXjM/edit?usp=sharing](https://docs.google.com/document/d/14McHNa8S-KevxE8WX1KZ5jRnUny5_ayT41XZXIMlXjM/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am reserve and who love to observe**
 
